@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m a DSA and Web Development enthusiast.<br>📖 I’m currently learning Full Stack Web Development.<br>❓ Ask me about anything related to Full Stack Development<br>🎉 Fun Fact: I Love Bugs.<br>💬 Ask me about Html, Css, Java, Python
+👀 I’m a DSA and Data Science enthusiast.<br>📖 I’m currently learning Data Science.<br>❓ Ask me about anything related to Data Science and Full Stack Development<br>🎉 Fun Fact: I Love Bugs.<br>💬 Ask me about Html, Css, Java, Python
 
 
 ## 🌐 Socials:
